@@ -1,0 +1,6 @@
+Nelson-Seigal parameters:
+a	0.01815544
+b	0.019172417
+c	0.106554005
+lambda	0.122863157
+
