@@ -6,6 +6,7 @@ This repo contains a monte carlo approach to price zero coupon bond price with i
 We further discretized the short rate evolution for Ho-Lee, so you can get the price of both continuous time (simulation of Brownian Motion) and discrete time (simulation of Bernoulli Variables).
 
 You can access the pricing function under ZCB_Pricing_oop.py in the following way:
+
 0. edit the Nelson Sigel Estimates parameters in stats.txt
 
 1. choose either discrete or continuous pricing by creating a class instance with your input 
