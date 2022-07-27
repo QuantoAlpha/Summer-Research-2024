@@ -1,7 +1,7 @@
 # Summer-Research-2024
 Yield Curve &amp; Option Pricing
 
-This repo contains a monte carlo approach to price zero coupon bond price with interest rate under Ho-Lee model. 
+This repo contains a report on fixed income derivative pricing under continuous-time term structure model and a monte carlo approach to price zero coupon bond price with interest rate under Ho-Lee model. 
 
 We further discretized the short rate evolution for Ho-Lee, so you can get the price of both continuous time (simulation of Brownian Motion) and discrete time (simulation of Bernoulli Variables).
 
