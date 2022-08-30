@@ -1,4 +1,4 @@
-# Summer-Research-2024
+# Summer Research 2024
 Yield Curve &amp; Option Pricing
 
 This repo contains a report on fixed income derivative pricing under continuous-time term structure model and a monte carlo approach to price zero coupon bond price with interest rate under Ho-Lee model. 
