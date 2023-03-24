@@ -19,4 +19,4 @@ You can access the pricing function under ZCB_Pricing_oop.py in the following wa
    
 3. The output should be a tuple of (x, y), where
    x: average of paths for monte carlo simulation - we take this as the price
-   y: standard deviation of paths
+   y: standard deviation of paths.
